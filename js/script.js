@@ -23,19 +23,19 @@ function closeNav() {
 // Slider
 let data = [
     {
-        imageUrl: '../images/SliderImg1.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/SliderImg1.jpg',
     },
     {
-        imageUrl: '../images/SliderImg2.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/SliderImg2.jpg',
     },
     {
-        imageUrl: '../images/SliderImg3.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/SliderImg3.jpg',
     },
     {
-        imageUrl: '../images/SliderImg4.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/SliderImg4.jpg',
     },
     {
-        imageUrl: '../images/SliderImg5.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/SliderImg5.jpg',
     }
 ]
 let arrowLeft = document.getElementById('arrow-left');
